@@ -1,1 +1,3 @@
-# cpp.stl
+# C++ STL
+
+Standard Template Library
